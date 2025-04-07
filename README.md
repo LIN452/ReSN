@@ -1,5 +1,6 @@
 # ReSN
 The implementation of the paper "How Do Recommendation Models Amplify Popularity Bias? An Analysis from the Spectral Perspective" from WSDM 2025.
+
 Paper Link: https://dl.acm.org/doi/10.1145/3701551.3703579
 
 ## Instructions on Runing ReSN
